@@ -2,17 +2,9 @@
 
 This tool requires [Node.js](https://nodejs.org/) to run.
 
-Go to Directory
+Go to Directory - Install The Dependencies - Run This Code
 ```sh
 cd Simple-Scraping
-```
-
-Install The Dependencies
-```sh
 npm i
-```
-
-Run This Code
-```sh
 node .
 ```
