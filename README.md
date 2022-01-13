@@ -1,12 +1,12 @@
 ## Installation
 
-This tool requires [Node.js](https://nodejs.org/) to run.
+This tool require [Node.js](https://nodejs.org/) to run.
 
-Clone This Package
+Clone this package
 ```sh
 git clone https://github.com/dtwhen/Simple-Scraping
 ```
-Go to Directory - Install The Dependencies - Run This Code
+Go to directory - install the dependencies - run this code
 ```sh
 cd Simple-Scraping
 npm i
